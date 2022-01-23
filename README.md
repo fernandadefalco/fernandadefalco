@@ -1,5 +1,5 @@
-### Hello world, I'm Fernanda <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
+<img style="margin-top:-20px" src="https://i.ibb.co/xS6J7fB/git1.png">
 
 
 <div>
@@ -8,7 +8,7 @@
 <a href="https://www.linkedin.com/in/fernandadefalco/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-------
+<img style="margin-top:-20px" src="https://i.ibb.co/RctfNkN/git2.png">
 
 ![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=Microsoft%20SQL%20Server)
