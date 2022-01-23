@@ -9,8 +9,10 @@
 </div>
 
 ------
- ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=SQL)
+
+![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python)
+![SQL](https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=Microsoft%20SQL%20Server)
+![Power BI](https://img.shields.io/badge/-Power%20BI-000000?style=for-the-badge&logo=Power%20BI)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fernandadefalco&show_icons=true&theme=apprentice&bg_color=#FFFFFF)
 
