@@ -15,7 +15,7 @@
  - I like to read, be in contact with nature and learn different things :books: :sunflower: :leaves: ;<br />
  - Now, I'm learning more about Data Science, using Python.
 
- <img align="right" src="https://i.giphy.com/media/xT9C25UNTwfZuk85WP/giphy.webp" width = "250"><br />
+ <img align="right" src="https://i.giphy.com/media/xT9C25UNTwfZuk85WP/giphy.webp" width = "200"><br />
 
 >  <i>"I like data because it is neutral—there are no value judgments, only facts."</i><br />
 > <font size="1">  ― Ed Catmull, Creativity, Inc.: Overcoming the Unseen Forces That Stand in the Way of True Inspiration </font> 
