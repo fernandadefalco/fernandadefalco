@@ -20,9 +20,6 @@
 >  <i>"I like data because it is neutral—there are no value judgments, only facts."</i><br />
 > <font size="1">  ― Ed Catmull, Creativity, Inc.: Overcoming the Unseen Forces That Stand in the Way of True Inspiration </font> 
 <br />
-<br />
-<br />
-<b>------------------------------------------------------------------------------------------------------------------------------------------------------</b>
 
 ### 🔧 Technologies & Tools
 
