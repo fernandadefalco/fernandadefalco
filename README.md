@@ -10,10 +10,10 @@
 
 <b>------------------------------------------------------------------------------------------------------------------------------------------------------</b>
 
-:white_square_button: I'm a chemical engineer working as a BI Analyst at Natura &CO, mainly treating data, generating reports and dashboards to support insights and decisions :bar_chart: :chart_with_upwards_trend:; <br />
+:white_square_button: I'm a chemical engineer working as a Data Scientist at Safra :bar_chart: :chart_with_upwards_trend:; <br />
  - I'm from Brazil, living in Sao Paulo;<br />
- - I like to read, be in contact with nature and learn different things :books: :sunflower: :leaves: ;<br />
- - Now, I'm learning more about Data Science, using Python.
+ - I like to read, to be in contact with nature and learn different things :books: :sunflower: :leaves: ;<br />
+ - Now, I'm studying and learning more about Data Science, using Python.
 
  <img align="right" src="https://i.giphy.com/media/xT9C25UNTwfZuk85WP/giphy.webp" width = "220"><br />
 
